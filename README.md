@@ -4,8 +4,8 @@ The iOS decal final project repository
 # Protect Exo Game
 
 ## Authors
-- Amy Ji
-- Ziwei Yin
+- Amy Ji                amyji@berkeley.edu
+- Ziwei Yin             zwyin2013@berkeley.edu
 - Enkhtushig Namkhai
 
 ## Purpose
@@ -33,6 +33,7 @@ A tower-defense fangame featuring a korean band called EXO. In this game, you wi
 - map.swift
 - board.swift
 - game.swift
+
 ### Views
 - StartUIView
 - StoryIUIView * 6
@@ -40,6 +41,7 @@ A tower-defense fangame featuring a korean band called EXO. In this game, you wi
 - GameView
 - LosingUIView
 - WinningUIView
+
 ### Controller
 - StartUIViewController
 - StoryIUIViewController * 6
