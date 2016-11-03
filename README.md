@@ -1,15 +1,15 @@
 # ios-decal-final-proj
 The iOS decal final project repository
 
-# Protect Exo Game
+# Protect Them!
 
 ## Authors
 - Amy Ji                amyji@berkeley.edu
 - Ziwei Yin             zwyin2013@berkeley.edu
-- Enkhtushig Namkhai
+- Enkhtushig Namkhai    enamkhai@berkeley.edu
 
 ## Purpose
-A tower-defense fangame featuring a korean band called EXO. In this game, you will be protecting your bias from enemies and getting their superpowers back
+A tower-defense fangame featuring a korean band called EXO. In this game, you will be protecting your bias from enemies and getting their superpowers back.
 
 ## Features
 - A small intro story that walks you through the basics of the game
